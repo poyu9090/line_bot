@@ -1,0 +1,55 @@
+{
+    "id": 55009042,
+    "svid": "g3Gq2",
+    "title": "產品滿意度調查問卷",
+    "status": "FINISH",
+    "submitTime": "2020-10-10 09:07:29",
+    "mbunq": null,
+    "meta": {
+        "isolated": {
+            "status": false,
+            "type": null
+        }
+    },
+    "mbrid": null,
+    "alias": [],
+    "result": [
+        {
+            "subject": "改善建議",
+            "type": "TXTSHORT",
+            "sn": 1,
+            "answer": ["使用者填寫問卷的回覆"],
+            "otherAnswer": []
+        },
+        {
+            "subject": "test",
+            "type": "CHOICEONE",
+            "sn": 2,
+            "answer": [],
+            "otherAnswer": []
+        },
+        {
+            "subject": "產品外觀滿意程度",
+            "type": "CHOICEONE",
+            "sn": 6,
+            "answer": [],
+            "otherAnswer": []
+        },
+        {
+            "subject": "產品操作滿意程度",
+            "type": "CHOICEONE",
+            "sn": 7,
+            "answer": [],
+            "otherAnswer": []
+        },
+        {
+            "subject": "改善建議",
+            "type": "TXTLONG",
+            "sn": 8,
+            "answer": [
+                "我覺得註冊帳號的流程太長了，寫到很沒有耐心，希望更詳細的個人資料可以想設定時再設定就好\n"
+            ],
+            "otherAnswer": []
+        }
+    ]
+}
